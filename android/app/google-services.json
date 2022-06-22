@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677775879728",
+    "project_id": "airplane-f9716",
+    "storage_bucket": "airplane-f9716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677775879728:android:3495dbf168a9f5cd7687f5",
+        "android_client_info": {
+          "package_name": "com.ardhanurfan.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677775879728-0el29fblbosrvr4un62e22aco75qktjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByXJ9FGLSYqwnhva1PK_ESe16XxTWD-6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677775879728-0el29fblbosrvr4un62e22aco75qktjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
