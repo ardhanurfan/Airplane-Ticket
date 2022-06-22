@@ -153,7 +153,7 @@ class CheckOutPage extends StatelessWidget {
                 marginTop: 10),
             DetailItems(
                 title: 'Seat',
-                value: '$transaction.selectedSeat',
+                value: '${transaction.selectedSeat}',
                 marginTop: 16),
             DetailItems(
                 title: 'Insurance',

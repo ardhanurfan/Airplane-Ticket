@@ -86,7 +86,9 @@ class TransactionCard extends StatelessWidget {
               value: '${transaction.amountOfTraveler} person',
               marginTop: 10),
           DetailItems(
-              title: 'Seat', value: '$transaction.selectedSeat', marginTop: 16),
+              title: 'Seat',
+              value: '${transaction.selectedSeat}',
+              marginTop: 16),
           DetailItems(
               title: 'Insurance',
               value: transaction.insurance ? 'YES' : 'NO',

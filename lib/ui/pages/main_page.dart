@@ -58,7 +58,7 @@ class MainPage extends StatelessWidget {
               borderRadius: BorderRadius.circular(defaultRadiusCard)),
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
-            children: const [
+            children: [
               NavigationItems(index: 0, imageUrl: 'assets/icon_home.png'),
               NavigationItems(index: 1, imageUrl: 'assets/icon_booked.png'),
               NavigationItems(index: 2, imageUrl: 'assets/icon_card.png'),
