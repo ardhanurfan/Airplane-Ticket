@@ -68,7 +68,9 @@ class UserService {
 
     Reference storageReference =
         FirebaseStorage.instance.ref('users').child(fileName);
+
     await storageReference.putFile(imageFile);
+
     String url = await storageReference.getDownloadURL();
 
     return url;
