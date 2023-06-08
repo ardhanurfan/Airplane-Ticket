@@ -1,4 +1,4 @@
-# airplane
+# AirTicket
 
 A Mobile application for ticket booking. Designed by BuildWithAngga. In this applicatioon has some features:
 1. Choose destination
