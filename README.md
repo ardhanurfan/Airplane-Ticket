@@ -1,6 +1,13 @@
 # airplane
 
-A new Flutter project.
+A Mobile application for ticket booking. Designed by BuildWithAngga. In this applicatioon has some features:
+1. Choose destination
+2. Account Feature
+3. Choosing seats
+4. Payment Review
+5. Payment History
+
+This application using flutter and firebase with flutter cubit bloc state management
 
 ## Getting Started
 
